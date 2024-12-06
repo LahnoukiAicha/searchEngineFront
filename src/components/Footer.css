@@ -1,0 +1,21 @@
+/* Conteneur global de l'application */
+
+  
+
+  
+  /* Footer */
+  footer {
+    background-color: #f9f9f9;
+    text-align: center;
+    padding: 10px;
+    border-top: 1px solid #ddd;
+    position: fixed; /* Rend le footer fixe */
+    bottom: 0; /* Place le footer en bas de la fenêtre */
+    left: 0;
+    height: 40px;
+    width: 100%; /* Le footer couvre toute la largeur */
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Optionnel : ombre pour le footer */
+    font-size: 14px;
+    color: #555;
+  }
+  
